@@ -1,0 +1,9 @@
+C:\Dev\bank-utilities\BankApp2\BankLibrary\bin\Release\netcoreapp2.0\BankLibrary.deps.json
+C:\Dev\bank-utilities\BankApp2\BankLibrary\bin\Release\netcoreapp2.0\BankLibrary.dll
+C:\Dev\bank-utilities\BankApp2\BankLibrary\bin\Release\netcoreapp2.0\BankLibrary.pdb
+C:\Dev\bank-utilities\BankApp2\BankLibrary\obj\Release\netcoreapp2.0\BankLibrary.csprojResolveAssemblyReference.cache
+C:\Dev\bank-utilities\BankApp2\BankLibrary\obj\Release\netcoreapp2.0\BankLibrary.csproj.CoreCompileInputs.cache
+C:\Dev\bank-utilities\BankApp2\BankLibrary\obj\Release\netcoreapp2.0\BankLibrary.AssemblyInfoInputs.cache
+C:\Dev\bank-utilities\BankApp2\BankLibrary\obj\Release\netcoreapp2.0\BankLibrary.AssemblyInfo.cs
+C:\Dev\bank-utilities\BankApp2\BankLibrary\obj\Release\netcoreapp2.0\BankLibrary.dll
+C:\Dev\bank-utilities\BankApp2\BankLibrary\obj\Release\netcoreapp2.0\BankLibrary.pdb
